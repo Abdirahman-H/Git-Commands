@@ -32,4 +32,4 @@ Understanding Git is a must for developers, DevOps engineers, and anyone working
 You can clone this repo with:
 
 ```bash
-git clone https://github.com/your-username/git-learning-journey.git
+git clone https://github.com/Abdirahman-H/git-learning-journey.git
